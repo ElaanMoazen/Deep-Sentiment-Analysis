@@ -1,7 +1,3 @@
-# Deep-Sentiment-Analysis
-This project implements a deep learning model for sentiment analysis using recurrent neural networks (RNNs). The model is trained to classify the sentiment of text data into positive or negative categories.
-
-
 # Deep Sentiment Analysis
 
 This project implements a deep learning model for sentiment analysis using recurrent neural networks (RNNs). The model is trained to classify the sentiment of text data into positive or negative categories.
@@ -33,3 +29,8 @@ In this project, we use a recurrent neural network (RNN) architecture, specifica
 
 ```bash
 git clone https://github.com/your-username/deep-sentiment-analysis.git
+
+2. Install dependencies:
+
+```bash
+pip install -r requirements.txt
