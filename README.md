@@ -30,6 +30,7 @@ In this project, we use a recurrent neural network (RNN) architecture, specifica
 ```bash
 git clone https://github.com/your-username/deep-sentiment-analysis.git
 
+
 2. Install dependencies:
 
 ```bash
